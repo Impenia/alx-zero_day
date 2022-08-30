@@ -1,1 +1,1 @@
-My sub-directory
+My subdirectory readme
